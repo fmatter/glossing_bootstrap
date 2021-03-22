@@ -27,8 +27,7 @@ Vin nge iravi dabangon ngo imrebe?
 
 # The task
 You are given a list of morphemes from an underresourced language, and a list of words, or sentences containing multiple words.
-Your task is to divide the provided words into the known morphemes.
-In this (minimalistic) approach to morphological structure, there are three kinds of morphemes:
+In the (minimalistic) approach to morphological structure used here, there are three kinds of morphemes:
 
 1. **roots** usually carry lexical meaning and form the core of word forms
 2. **prefixes** are smaller, bound morphemes which occur before a stem
@@ -49,4 +48,5 @@ Here's how that would look for the Unua example above:
 |ŋo|DEM|
 |mɾebe|how|
 
+Your task is to divide the provided words into the known morphemes.
 A stem is a combination of morphemes; it can consist of either a bare root, or a root with prefixes and/or suffixes.

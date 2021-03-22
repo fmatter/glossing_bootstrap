@@ -46,5 +46,5 @@ A stem is a combination of morphemes; it can consist of either a bare root, or a
 |dabaŋo|belly|
 |-n|3SG|
 |ŋo|DEM|
-|mɾebehow||
+|mɾebe|how|
 

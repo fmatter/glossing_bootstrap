@@ -36,6 +36,7 @@ In this (minimalistic) approach to morphological structure, there are three kind
 
 A stem is a combination of morphemes; it can consist of either a bare root, or a root with prefixes and/or suffixes.
 
+
 |Form|Gloss|
 |:-|:-|
 |βin|woman|

@@ -21,6 +21,7 @@ Vin nge iravi dabangon ngo imrebe?
 |***βin***|***ŋe***|***i-ɾav-i***|***dabaŋo-n***|***ŋo***|***i-mɾebe***|
 |:-|:-|:-|:-|:-|:-|
 |woman|PROX|3SG-take-TR|belly-3SG|DEM|3SG-how|
+
 'How did this woman get that belly?'
 
 

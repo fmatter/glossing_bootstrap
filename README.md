@@ -5,11 +5,11 @@ There are around 6000-7000 human languages in the world, but NLP tools have only
 While language-independent tools exist, they are often not interested in the same kinds of problems as traditional linguistics, which among other things investigates linguistic diversity.
 A central part of structural linguistics is grammatical or morphological analysis, a process which can be applied to any spoken human language.
 Morphological analysis establishes the smallest meaning-carrying unit in a language, called [morphemes](https://en.wikipedia.org/wiki/Morpheme).
-Word forms are conceptualized as being composed of morphemes, so e.g. the form *conceptualized* consists of:
+Word forms are conceptualized as being composed of morphemes, so e.g. the English word form *conceptualized* consists of:
 1. the root *concept*
 1. the adjectivizer *-ual*
 1. the verbalizer *-ize*
-1. the past marker *-ed*
+1. the past marker *-d*
 
 For large languages, there are either models trained on large corpora or explicitly modelled implementations of the morphological structure of a language.
 For small languages (which are usually at least as interesting as the large ones), no such tools exist, due to the lack of available large corpora and the cost of creating detailed language-specific models.
@@ -19,9 +19,10 @@ A common way of representing morphological structure in linguistics is interline
 It minimally consists of a object language line, a morpheme-by-morpheme glossing, and a free translation.
 Here is an example from the Oceanic language [Unua](https://glottolog.org/resource/languoid/id/unua1237) (from [Pierce 2015](https://doi.org/10.1515/9781614516590): 249):
 
+<!-- Vin nge iravi dabangon ngo imrebe? -->
+
 ```
-(1) Vin nge iravi dabangon ngo imrebe?
-    βin   ŋe   i-ɾav-i     dabaŋo-n  ŋo  i-mɾebe 
+(1) βin   ŋe   i-ɾav-i     dabaŋo-n  ŋo  i-mɾebe 
     woman PROX 3SG-take-TR belly-3SG DEM 3SG-how 
     'How did this woman get that belly?'
 ```
@@ -51,9 +52,10 @@ What is delimited by spaces in a sentence -- intuitively a 'word' to most people
 Multiple g-words can be combined into a single p-word, think for example of the English (p-)words *mustn't* or *I've*, which contain the g-words *must* and *not* and *I* and *have*, respectively.
 Sometimes, these g-words in turn contain multiple morphemes, as in the following example from [Ngiyambaa](https://glottolog.org/resource/languoid/id/wang1291) ([Donaldson 1980](http://hdl.handle.net/11858/00-001M-0000-0012-9923-3): 131):
 
+<!-- ŋayagadhi:ndugal -->
+
 ```
-(2) ŋayagadhi:ndugal
-    ŋa-j-aka=t̪iː=ntu-kal     
+(2) ŋa-j-aka=t̪iː=ntu-kal     
     see-CONJ-IRR=1OBL=2NOM-PL 
     You all will see me.'
 ```

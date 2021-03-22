@@ -46,7 +46,7 @@ So in the Unua example above, the following morphemes can be identified:
 |-i|TR|
 |-n|3SG|
 
-Roots, pre- and affixes are combined to grammatical words, or g-words.
+Roots, pre- and suffixes are combined to grammatical words, or g-words.
 What is delimited by spaces in a sentence -- intuitively a 'word' to most people -- is strictly speaking a phonological word (p-word).
 Multiple g-words can be combined into a single p-word, think for example of the English (p-)words *mustn't* or *I've*, which contain the g-words *must* and *not* and *I* and *have*, respectively.
 Sometimes, these g-words in turn contain multiple morphemes, as in the following example from [Ngiyambaa](https://glottolog.org/resource/languoid/id/wang1291) ([Donaldson 1980](http://hdl.handle.net/11858/00-001M-0000-0012-9923-3): 131):

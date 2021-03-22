@@ -11,7 +11,7 @@ Word forms are conceptualized as being composed of morphemes, so e.g. the form *
 1. the verbalizer *-ize*
 1. the past marker *-ed*
 
-For large languages, there are either models trained on large corpora or specific descriptions of the morphological structure of a language.
+For large languages, there are either models trained on large corpora or explicitly modelled implementations of the morphological structure of a language.
 For small languages (which are usually at least as interesting as the large ones), no such tools exist, due to the lack of available large corpora and the cost of creating detailed language-specific models.
 
 ## Interlinear text

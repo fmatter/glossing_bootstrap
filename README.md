@@ -26,7 +26,7 @@ Vin nge iravi dabangon ngo imrebe?
 
 
 # The task
-You are given a list of morphemes from an underresourced language, and a list of words, or sentences containing multiple words.
+You are given a list of morphemes from an underresourced language, as well as a list of words -- or sentences containing multiple words.
 In the (minimalistic) approach to morphological structure used here, there are three kinds of morphemes:
 
 1. **roots** usually carry lexical meaning and form the core of word forms

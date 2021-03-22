@@ -80,6 +80,7 @@ W-ari-bat̻bit̻-pe=w-iri
 reid 256 -->
 
 ## The task
-You are given a list of morphemes from an underresourced language, as well as a list of words -- or sentences containing multiple words.
-Your task is to divide the provided words into the known morphemes.
-The morphemes are provided as a list of form-meaning pairs, with prefixes and suffixes being identified with preceding or following hyphens, respectively.
+You are given a list of morphemes from an underresourced language, as well as a list of sentences (or single words).
+Your task is to divide the provided word forms into the known morphemes.
+The morphemes are provided as a list of form-meaning pairs, as in the table above.
+That is, prefixes and suffixes are identified by preceding and following hyphens, and roots do not have hyphens.

@@ -40,13 +40,12 @@ So in the Unua example above, the following morphemes can be identified:
 |βin|woman|
 |dabaŋo|belly|
 |ɾav|take|
+|mɾebe|how|
 |ŋe|PROX|
 |ŋo|DEM|
 |i-|3SG|
 |-i|TR|
 |-n|3SG|
-
-|mɾebe|how|
 
 Your task is to divide the provided words into the known morphemes.
 A stem is a combination of morphemes; it can consist of either a bare root, or a root with prefixes and/or suffixes.

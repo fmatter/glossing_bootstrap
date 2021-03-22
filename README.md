@@ -6,10 +6,10 @@ While language-independent tools exist, they are often not interested in the sam
 A central part of structural linguistics is grammatical or morphological analysis, a process which can be applied to any spoken human language.
 Morphological analysis establishes the smallest meaning-carrying unit in a language, called [morphemes](https://en.wikipedia.org/wiki/Morpheme).
 Word forms are conceptualized as being composed of morphemes, so e.g. the form *conceptualized* consists of:
-* the root *concept*
-* the adjectivizer *-ual*
-* the verbalizer *-ize*
-* the past marker *-ed*
+1. the root *concept*
+1. the adjectivizer *-ual*
+1. the verbalizer *-ize*
+1. the past marker *-ed*
 
 For large languages, there are either models trained on large corpora or specific descriptions of the morphological structure of a language.
 For small languages (which are usually at least as interesting as the large ones), no such tools exist, due to the lack of available large corpora and the cost of creating detailed language-specific models.

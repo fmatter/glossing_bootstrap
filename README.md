@@ -53,10 +53,11 @@ What is delimited by spaces in a sentence -- intuitively a 'word' to most people
 Multiple g-words can be combined into a single p-word, think for example English *mustn't* or *I've*, which contain the g-words *must* and *not* and *I* and *have*, respectively.
 p-words can consist of morphologically complex g-words, as in the following example from [Ngiyambaa](https://glottolog.org/resource/languoid/id/wang1291) ([Donaldson 1980](http://hdl.handle.net/11858/00-001M-0000-0012-9923-3): 131):
 
-ŋa-j-aga=dhiː=ndu-gal
-see-CONJ-IRR=1OBL=2NOM-PL
+|***ŋa-j-aga=dhiː=ndu-gal***|
+|:-|
+|see-CONJ-IRR=1OBL=2NOM-PL|
+
 'You all will see me.'
-131
 
 <!-- manhaŋ-gu=naŋ-gal ŋima-nhi
 white.paint-INS=3ABS-PL paint-INTR.PST

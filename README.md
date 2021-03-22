@@ -13,6 +13,8 @@ Word forms are conceptualized as being composed of morphemes, so e.g. the form *
 
 For large languages, there are either models trained on large corpora or specific descriptions of the morphological structure of a language.
 For small languages (which are usually at least as interesting as the large ones), no such tools exist, due to the lack of available large corpora and the cost of creating detailed language-specific models.
+
+# Interlinear text
 A common way of representing morphological structure in linguistics is interlinearized glossed text (IGT).
 It minimally consists of a object language line, a morpheme-by-morpheme glossing, and a free translation.
 Here is an example from the Oceanic language [Unua](https://glottolog.org/resource/languoid/id/unua1237) (from [Pierce 2015](https://doi.org/10.1515/9781614516590): 249):
@@ -24,9 +26,6 @@ Vin nge iravi dabangon ngo imrebe?
 
 'How did this woman get that belly?'
 
-
-# The task
-You are given a list of morphemes from an underresourced language, as well as a list of words -- or sentences containing multiple words.
 In the (minimalistic) approach to morphological structure used here, there are three kinds of morphemes:
 
 1. **roots** usually carry lexical meaning and form the core of word forms
@@ -76,6 +75,10 @@ W-ari-bat̻bit̻-pe=w-iri
 3PL.S-poke.IRR-sew-FUT=3PL.S-sit.IRR
 'They will be sewing.'
 reid 256 -->
+
+
+## The task
+You are given a list of morphemes from an underresourced language, as well as a list of words -- or sentences containing multiple words.
 
 Your task is to divide the provided words into the known morphemes.
 These are provided as a list of form-meaning pairs, with prefixes and suffixes being identified with preceding or following hyphens, respectively.

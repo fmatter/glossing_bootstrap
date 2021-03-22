@@ -34,4 +34,4 @@ In this (minimalistic) approach to morphological structure, there are three kind
 2. **prefixes** are smaller, bound morphemes which occur before a stem
 3. **suffixes** are smaller bound morphemes which occur after a stem
 
-A stem is a combination of morphemes.
+A stem is a combination of morphemes, consisting of either a bare root, or a root with prefixes and/or suffixes.

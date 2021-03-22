@@ -60,6 +60,7 @@ p-words can consist of morphologically complex g-words, as in the following exam
 'You all will see me.'
 
 Here, there are three distinct word forms: *ŋajaga*, *dhiː*, and *ndugal*, two of which in turn consist of a root and suffixes.
+These g-words as part of a larger p-word are delimited with `=`, just like roots and affixes inside a g-word are delimited with `-`.
 
 <!-- manhaŋ-gu=naŋ-gal ŋima-nhi
 white.paint-INS=3ABS-PL paint-INTR.PST

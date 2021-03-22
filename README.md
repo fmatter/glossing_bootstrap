@@ -19,7 +19,7 @@ A common way of representing morphological structure in linguistics is interline
 It minimally consists of a object language line, a morpheme-by-morpheme glossing, and a free translation.
 Here is an example from the Oceanic language [Unua](https://glottolog.org/resource/languoid/id/unua1237) (from [Pierce 2015](https://doi.org/10.1515/9781614516590): 249):
 
-Vin nge iravi dabangon ngo imrebe?
+*Vin nge iravi dabangon ngo imrebe?*
 |***βin***|***ŋe***|***i-ɾav-i***|***dabaŋo-n***|***ŋo***|***i-mɾebe***|
 |:-|:-|:-|:-|:-|:-|
 |woman|PROX|3SG-take-TR|belly-3SG|DEM|3SG-how|
@@ -52,6 +52,7 @@ What is delimited by spaces in a sentence -- intuitively a 'word' to most people
 Multiple g-words can be combined into a single p-word, think for example of the English (p-)words *mustn't* or *I've*, which contain the g-words *must* and *not* and *I* and *have*, respectively.
 p-words can consist of morphologically complex g-words, as in the following example from [Ngiyambaa](https://glottolog.org/resource/languoid/id/wang1291) ([Donaldson 1980](http://hdl.handle.net/11858/00-001M-0000-0012-9923-3): 131):
 
+*ŋayagadhi:ndugal*
 |***ŋa-j-aka=t̪iː=ntu-kal***|
 |:-|
 |see-CONJ-IRR=1OBL=2NOM-PL|

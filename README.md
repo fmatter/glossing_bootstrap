@@ -24,6 +24,8 @@ Here is an example from the Oceanic language [Unua](https://glottolog.org/resour
 woman PROX 3SG-take-TR belly-3SG DEM 3SG-how 
 'How did this woman get that belly?'
 
+βin&nbsp;&nbsp;&nbsp;ŋe&nbsp;&nbsp;&nbsp;i-ɾav-i&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dabaŋo-n&nbsp;&nbsp;ŋo&nbsp;&nbsp;i-mɾebe&nbsp;
+woman&nbsp;PROX&nbsp;3SG-take-TR&nbsp;belly-3SG&nbsp;DEM&nbsp;3SG-how&nbsp;
 
 
 

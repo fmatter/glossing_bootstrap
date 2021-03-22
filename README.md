@@ -19,12 +19,13 @@ A common way of representing morphological structure in linguistics is interline
 It minimally consists of a object language line, a morpheme-by-morpheme glossing, and a free translation.
 Here is an example from the Oceanic language [Unua](https://glottolog.org/resource/languoid/id/unua1237) (from [Pierce 2015](https://doi.org/10.1515/9781614516590): 249):
 
-*Vin nge iravi dabangon ngo imrebe?*
-|***βin***|***ŋe***|***i-ɾav-i***|***dabaŋo-n***|***ŋo***|***i-mɾebe***|
-|:-|:-|:-|:-|:-|:-|
-|woman|PROX|3SG-take-TR|belly-3SG|DEM|3SG-how|
-
+(1)*Vin nge iravi dabangon ngo imrebe?*
+βin   ŋe   i-ɾav-i     dabaŋo-n  ŋo  i-mɾebe 
+woman PROX 3SG-take-TR belly-3SG DEM 3SG-how 
 'How did this woman get that belly?'
+
+
+
 
 In the (minimalistic) approach to morphological structure used here, there are three kinds of morphemes:
 

@@ -1,5 +1,5 @@
 # Bootstrapping morphological glossing for underresourced languages
-
+ A challenge for the DH@unibe NLP-Hackathon 2021 
 # Introduction
 There are around 6000-7000 human languages in the world, but NLP tools have only been developed for a fraction of them.
 While language-independent tools exist, they are often not interested in the same kinds of problems as traditional linguistics, which among other things investigates linguistic diversity.

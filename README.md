@@ -52,10 +52,10 @@ What is delimited by spaces in a sentence -- intuitively a 'word' to most people
 Multiple g-words can be combined into a single p-word, think for example of the English (p-)words *mustn't* or *I've*, which contain the g-words *must* and *not* and *I* and *have*, respectively.
 p-words can consist of morphologically complex g-words, as in the following example from [Ngiyambaa](https://glottolog.org/resource/languoid/id/wang1291) ([Donaldson 1980](http://hdl.handle.net/11858/00-001M-0000-0012-9923-3): 131):
 
-*ŋayagadhi:ndugal*
-|***ŋa-j-aka=t̪iː=ntu-kal***|
+(2)&nbsp;&nbsp;&nbsp;&nbsp;*ŋayagadhi:ndugal*
+|&nbsp;&nbsp;&nbsp;&nbsp;***ŋa-j-aka=t̪iː=ntu-kal***|
 |:-|
-|see-CONJ-IRR=1OBL=2NOM-PL|
+|&nbsp;&nbsp;&nbsp;&nbsp;see-CONJ-IRR=1OBL=2NOM-PL|
 
 'You all will see me.'
 
@@ -77,9 +77,7 @@ W-ari-bat̻bit̻-pe=w-iri
 'They will be sewing.'
 reid 256 -->
 
-
 ## The task
 You are given a list of morphemes from an underresourced language, as well as a list of words -- or sentences containing multiple words.
-
 Your task is to divide the provided words into the known morphemes.
-These are provided as a list of form-meaning pairs, with prefixes and suffixes being identified with preceding or following hyphens, respectively.
+The morphemes are provided as a list of form-meaning pairs, with prefixes and suffixes being identified with preceding or following hyphens, respectively.

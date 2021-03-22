@@ -34,8 +34,8 @@ In this (minimalistic) approach to morphological structure, there are three kind
 2. **prefixes** are smaller, bound morphemes which occur before a stem
 3. **suffixes** are smaller bound morphemes which occur after a stem
 
-A stem is a combination of morphemes; it can consist of either a bare root, or a root with prefixes and/or suffixes.
-
+These are provided as a list of form-meaning pairs, with prefixes and suffixes being identified with preceding or following hyphens, respectively.
+Here's how that would look for the Unua example above:
 
 |Form|Gloss|
 |:-|:-|
@@ -49,3 +49,4 @@ A stem is a combination of morphemes; it can consist of either a bare root, or a
 |ŋo|DEM|
 |mɾebe|how|
 
+A stem is a combination of morphemes; it can consist of either a bare root, or a root with prefixes and/or suffixes.

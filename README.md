@@ -15,10 +15,9 @@ For large languages, there are either models trained on large corpora or specifi
 For small languages (which are usually at least as interesting as the large ones), no such tools exist, due to the lack of available large corpora and the cost of creating detailed language-specific models.
 A common way of representing morphological structure in linguistics is interlinearized glossed text (IGT).
 It minimally consists of a object language line, a morpheme-by-morpheme glossing, and a free translation.
-Here is an example from the Oceanic language [Unua](https://glottolog.org/resource/languoid/id/unua1237) ([Pierce 2015](https://doi.org/10.1515/9781614516590): 249):
+Here is an example from the Oceanic language [Unua](https://glottolog.org/resource/languoid/id/unua1237) (from [Pierce 2015](https://doi.org/10.1515/9781614516590): 249):
 
 Vin nge iravi dabangon ngo imrebe?
------
 |||||||
 |:-|:-|:-|:-|:-|:-|
 |***βin***|***ŋe***|***i-ɾav-i***|***dabaŋo-n***|***ŋo***|***i-mɾebe***|

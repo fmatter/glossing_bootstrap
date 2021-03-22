@@ -62,7 +62,7 @@ Sometimes, these g-words in turn contain multiple morphemes, as in the following
 
 
 Here, there are three distinct word forms: *ŋajaka*, *t̪iː*, and *ntukal*, which can be further segmented as *ŋa-j-aka*, *t̪iː*, and *ntu-kal*, respectively.
-When g-words within a larger p-word are delimited with `=`, just like roots and affixes inside a g-word are delimited with `-`.
+As you can see in (2), g-words within a larger p-word are delimited with `=`, just like morphemes inside a g-word are delimited with `-`.
 
 <!-- manhaŋ-gu=naŋ-gal ŋima-nhi
 white.paint-INS=3ABS-PL paint-INTR.PST

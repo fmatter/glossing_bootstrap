@@ -33,20 +33,21 @@ In the (minimalistic) approach to morphological structure used here, there are t
 2. **prefixes** are smaller, bound morphemes which occur before a stem
 3. **suffixes** are smaller bound morphemes which occur after a stem
 
-These are provided as a list of form-meaning pairs, with prefixes and suffixes being identified with preceding or following hyphens, respectively.
-Here's how that would look for the Unua example above:
+So in the Unua example above, the following morphemes can be identified:
 
 |Form|Gloss|
 |:-|:-|
 |βin|woman|
-|ŋe|PROX|
-|i-|3SG|
-|ɾav|take|
-|-i|TR|
 |dabaŋo|belly|
-|-n|3SG|
+|ɾav|take|
+|ŋe|PROX|
 |ŋo|DEM|
+|i-|3SG|
+|-i|TR|
+|-n|3SG|
+
 |mɾebe|how|
 
 Your task is to divide the provided words into the known morphemes.
 A stem is a combination of morphemes; it can consist of either a bare root, or a root with prefixes and/or suffixes.
+These are provided as a list of form-meaning pairs, with prefixes and suffixes being identified with preceding or following hyphens, respectively.

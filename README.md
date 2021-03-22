@@ -53,9 +53,9 @@ Multiple g-words can be combined into a single p-word, think for example of the 
 p-words can consist of morphologically complex g-words, as in the following example from [Ngiyambaa](https://glottolog.org/resource/languoid/id/wang1291) ([Donaldson 1980](http://hdl.handle.net/11858/00-001M-0000-0012-9923-3): 131):
 
 (2)&nbsp;&nbsp;&nbsp;&nbsp;*ŋayagadhi:ndugal*
-|&nbsp;&nbsp;&nbsp;&nbsp;***ŋa-j-aka=t̪iː=ntu-kal***|
+&nbsp;&nbsp;&nbsp;&nbsp;|***ŋa-j-aka=t̪iː=ntu-kal***|
 |:-|
-|&nbsp;&nbsp;&nbsp;&nbsp;see-CONJ-IRR=1OBL=2NOM-PL|
+&nbsp;&nbsp;&nbsp;&nbsp;|see-CONJ-IRR=1OBL=2NOM-PL|
 
 'You all will see me.'
 

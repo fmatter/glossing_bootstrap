@@ -1,0 +1,267 @@
+ID,Sentence,Analyzed,Gloss,Translation
+1,wikonka,wi-konka,1A-pierce,I pierced it.
+2,mikonka,mi-konka,2A-pierce,You pierced it.
+3,kiikonka,kii-konka,1+2A-pierce,We pierced it.
+4,nikonka,ni-konka,3-pierce,S/he pierced it.
+5,jikonka,ji-konka,1P-pierce,S/he pierced me.
+6,əkonka,ə-konka,2P-pierce,S/he pierced you.
+7,kɨkonka,kɨ-konka,1+2P-pierce,S/he pierced us.
+8,wenpa,w-enpa,1A-teach,I taught it.
+9,menpa,m-enpa,2A-teach,You taught it.
+10,kenpa,k-enpa,1+2A-teach,We taught it.
+11,nenpa,n-enpa,3-teach,S/he taught it.
+12,jenpa,j-enpa,1P-teach,S/he taught me.
+13,əenpa,ə-enpa,2P-teach,S/he taught you.
+14,kenpa,k-enpa,1+2P-teach,S/he taught us.
+15,wene,w-ene,1A-see,I saw it.
+16,mene,m-ene,2A-see,You saw it.
+17,keene,ke-ene,1+2A-see,We saw it.
+18,nene,n-ene,3-see,S/he saw it.
+19,jene,j-ene,1P-see,S/he saw me.
+20,əene,ə-ene,2P-see,S/he saw you.
+21,kene,k-ene,1+2P-see,S/he saw us.
+22,wene mahto,w-ene mahto,1A-see fire,I saw the fire.
+23,wene wəri,w-ene wəri,1A-see woman,I saw the woman.
+24,wene wɨtoto,w-ene wɨtoto,1A-see person,I saw the person.
+25,wəri əene,wəri ə-ene,woman 2P-see,The woman saw you.
+26,wəri nene,wəri n-ene,woman 3-see,The woman saw it.
+27,wəri jene,wəri j-ene,woman 1P-see,The woman saw me.
+28,wəri nene kana,wəri n-ene kana,woman 3-see fish,The woman saw the fish.
+29,wəri kana ene,wəri kana ene,woman fish see,The woman saw the fish.
+30,wəri nene tɨɨka,wəri n-ene tɨɨka,woman 3-see tobacco,The woman saw the tobacco.
+31,wəri tɨɨka ene,wəri tɨɨka ene,woman tobacco see,The woman saw the tobacco.
+32,wonopɨ,w-onopɨ,1A-paint,I painted it.
+33,monopɨ,m-onopɨ,2A-paint,You painted it.
+34,kɨtonopɨ,kɨt-onopɨ,1+2A-paint,We painted it.
+35,nonopɨ,n-onopɨ,3-paint,S/he painted it.
+36,jonopɨ,j-onopɨ,1P-paint,S/he painted me.
+37,oonopɨ,o-onopɨ,2P-paint,S/he painted you.
+38,konopɨ,k-onopɨ,1+2P-paint,S/he painted us.
+39,wapuru,w-apuru,1A-lock,I locked it.
+40,mapuru,m-apuru,2A-lock,You locked it.
+41,kɨtapuru,kɨt-apuru,1+2A-lock,We locked it.
+42,napuru,n-apuru,3-lock,S/he locked it.
+43,japuru,j-apuru,1P-lock,S/he locked me.
+44,aapuru,a-apuru,2P-lock,S/he locked you.
+45,kapuru,k-apuru,1+2P-lock,S/he locked us.
+46,warə,w-arə,1A-take,I took it.
+47,marə,m-arə,2A-take,You took it.
+48,kɨtarə,kɨt-arə,1+2A-take,We took it.
+49,narə,n-arə,3-take,S/he took it.
+50,jarə,j-arə,1P-take,S/he took me.
+51,aarə,a-arə,2P-take,S/he took you.
+52,karə,k-arə,1+2P-take,S/he took us.
+53,warə eperu,w-arə eperu,1A-take fruit,I took the fruit.
+54,marə tarɨpɨ,m-arə tarɨpɨ,2A-take monkey,You took the monkey.
+55,warə mahto,w-arə mahto,1A-take fire,I took the fire.
+56,wəri narə,wəri n-arə,woman 3-take,The woman took it.
+57,wɨtoto karə,wɨtoto k-arə,person 1+2P-take,The person took us.
+58,wɨtoto narə,wɨtoto n-arə,person 3-take,The person took it.
+59,wɨtoto narə kaikui,wɨtoto n-arə kaikui,person 3-take jaguar,The person took the jaguar.
+60,wɨtoto kaikui arə,wɨtoto kaikui arə,person jaguar take,The person took the jaguar.
+61,wɨtoto narə mahto,wɨtoto n-arə mahto,person 3-take fire,The person took the fire.
+62,wɨtoto mahto arə,wɨtoto mahto arə,person fire take,The person took the fire.
+63,wamo,w-amo,1A-mourn,I mourned it.
+64,mamo,m-amo,2A-mourn,You mourned it.
+65,kɨtamo,kɨt-amo,1+2A-mourn,We mourned it.
+66,namo,n-amo,3-mourn,S/he mourned it.
+67,jamo,j-amo,1P-mourn,S/he mourned me.
+68,aamo,a-amo,2P-mourn,S/he mourned you.
+69,kamo,k-amo,1+2P-mourn,S/he mourned us.
+70,wuru,w-uru,1A-warn,I warned it.
+71,muru,m-uru,2A-warn,You warned it.
+72,kɨturu,kɨt-uru,1+2A-warn,We warned it.
+73,nuru,n-uru,3-warn,S/he warned it.
+74,juru,j-uru,1P-warn,S/he warned me.
+75,əuru,ə-uru,2P-warn,S/he warned you.
+76,kuru,k-uru,1+2P-warn,S/he warned us.
+77,waitə,w-aitə,1A-push,I pushed it.
+78,maitə,m-aitə,2A-push,You pushed it.
+79,kɨtaitə,kɨt-aitə,1+2A-push,We pushed it.
+80,naitə,n-aitə,3-push,S/he pushed it.
+81,jaitə,j-aitə,1P-push,S/he pushed me.
+82,aitə,aitə,push,S/he pushed you.
+83,kaitə,k-aitə,1+2P-push,S/he pushed us.
+84,maitə tɨɨka,m-aitə tɨɨka,2A-push tobacco,You pushed the tobacco.
+85,waitə pawana,w-aitə pawana,1A-push friend,I pushed the friend.
+86,maitə pun,m-aitə pun,2A-push meat,You pushed the meat.
+87,wɨtoto jaitə,wɨtoto j-aitə,person 1P-push,The person pushed me.
+88,wɨtoto aitə,wɨtoto aitə,person push,The person pushed you.
+89,wəri jaitə,wəri j-aitə,woman 1P-push,The woman pushed me.
+90,pawana naitə kana,pawana n-aitə kana,friend 3-push fish,The friend pushed the fish.
+91,pawana kana aitə,pawana kana aitə,friend fish push,The friend pushed the fish.
+92,wɨtoto naitə kana,wɨtoto n-aitə kana,person 3-push fish,The person pushed the fish.
+93,wɨtoto kana aitə,wɨtoto kana aitə,person fish push,The person pushed the fish.
+94,woima,w-oima,1A-mix,I mixed it.
+95,moima,m-oima,2A-mix,You mixed it.
+96,kɨtoima,kɨt-oima,1+2A-mix,We mixed it.
+97,noima,n-oima,3-mix,S/he mixed it.
+98,joima,j-oima,1P-mix,S/he mixed me.
+99,oima,oima,mix,S/he mixed you.
+100,koima,k-oima,1+2P-mix,S/he mixed us.
+101,waarama,w-aarama,1A-adorn,I adorned it.
+102,maarama,m-aarama,2A-adorn,You adorned it.
+103,kɨtaarama,kɨt-aarama,1+2A-adorn,We adorned it.
+104,naarama,n-aarama,3-adorn,S/he adorned it.
+105,jaarama,j-aarama,1P-adorn,S/he adorned me.
+106,aarama,aarama,adorn,S/he adorned you.
+107,kaarama,k-aarama,1+2P-adorn,S/he adorned us.
+108,weeka,w-eeka,1A-bite,I bit it.
+109,meeka,m-eeka,2A-bite,You bit it.
+110,keeka,k-eeka,1+2A-bite,We bit it.
+111,neeka,n-eeka,3-bite,S/he bit it.
+112,jeeka,j-eeka,1P-bite,S/he bit me.
+113,əeeka,ə-eeka,2P-bite,S/he bit you.
+114,keeka,k-eeka,1+2P-bite,S/he bit us.
+115,weiraanopɨ,w-eiraanopɨ,1A-get.angry.at,I got angry at it.
+116,meiraanopɨ,m-eiraanopɨ,2A-get.angry.at,You got angry at it.
+117,keiraanopɨ,k-eiraanopɨ,1+2A-get.angry.at,We got angry at it.
+118,neiraanopɨ,n-eiraanopɨ,3-get.angry.at,S/he got angry at it.
+119,jeiraanopɨ,j-eiraanopɨ,1P-get.angry.at,S/he got angry at me.
+120,eiraanopɨ,eiraanopɨ,get.angry.at,S/he got angry at you.
+121,keiraanopɨ,k-eiraanopɨ,1+2P-get.angry.at,S/he got angry at us.
+122,weiraanopɨ wɨtoto,w-eiraanopɨ wɨtoto,1A-get.angry.at person,I got angry at the person.
+123,weiraanopɨ tarɨpɨ,w-eiraanopɨ tarɨpɨ,1A-get.angry.at monkey,I got angry at the monkey.
+124,weiraanopɨ eperu,w-eiraanopɨ eperu,1A-get.angry.at fruit,I got angry at the fruit.
+125,wɨtoto keiraanopɨ,wɨtoto k-eiraanopɨ,person 1+2P-get.angry.at,The person got angry at us.
+126,wəri neiraanopɨ,wəri n-eiraanopɨ,woman 3-get.angry.at,The woman got angry at it.
+127,pawana neiraanopɨ,pawana n-eiraanopɨ,friend 3-get.angry.at,The friend got angry at it.
+128,wɨtoto neiraanopɨ tɨɨka,wɨtoto n-eiraanopɨ tɨɨka,person 3-get.angry.at tobacco,The person got angry at the tobacco.
+129,wɨtoto tɨɨka eiraanopɨ,wɨtoto tɨɨka eiraanopɨ,person tobacco get.angry.at,The person got angry at the tobacco.
+130,wəri neiraanopɨ kaikui,wəri n-eiraanopɨ kaikui,woman 3-get.angry.at jaguar,The woman got angry at the jaguar.
+131,wəri kaikui eiraanopɨ,wəri kaikui eiraanopɨ,woman jaguar get.angry.at,The woman got angry at the jaguar.
+132,jemamina,j-emamina,1P-play,I played.
+133,əemamina,ə-emamina,2P-play,You played.
+134,nemamina,n-emamina,3-play,S/he played.
+135,kemamina,k-emamina,1+2P-play,We played.
+136,sepɨ,s-epɨ,1A-bathe,I bathed.
+137,mepɨ,m-epɨ,2A-bathe,You bathed.
+138,nepɨ,n-epɨ,3-bathe,S/he bathed.
+139,keepɨ,ke-epɨ,1+2A-bathe,We bathed.
+140,sentapo,s-entapo,1A-yawn,I yawned.
+141,mentapo,m-entapo,2A-yawn,You yawned.
+142,nentapo,n-entapo,3-yawn,S/he yawned.
+143,kentapo,k-entapo,1+2A-yawn,We yawned.
+144,sehtarənma,s-ehtarənma,1A-get.ready,I got ready.
+145,mehtarənma,m-ehtarənma,2A-get.ready,You got ready.
+146,nehtarənma,n-ehtarənma,3-get.ready,S/he got ready.
+147,kehtarənma,k-ehtarənma,1+2A-get.ready,We got ready.
+148,seeseka,s-eeseka,1A-jump,I jumped.
+149,meeseka,m-eeseka,2A-jump,You jumped.
+150,neeseka,n-eeseka,3-jump,S/he jumped.
+151,keeseka,k-eeseka,1+2A-jump,We jumped.
+152,təturu,t-əturu,1A-talk,I talked.
+153,məturu,m-əturu,2A-talk,You talked.
+154,nəturu,n-əturu,3-talk,S/he talked.
+155,kɨtəturu,kɨt-əturu,1+2A-talk,We talked.
+156,jitatɨ,ji-tatɨ,1P-get.lost,I got lost.
+157,ətatɨ,ə-tatɨ,2P-get.lost,You got lost.
+158,nitatɨ,ni-tatɨ,3-get.lost,S/he got lost.
+159,kɨtatɨ,kɨ-tatɨ,1+2P-get.lost,We got lost.
+160,jenta,j-enta,1P-wake.up,I woke up.
+161,əenta,ə-enta,2P-wake.up,You woke up.
+162,nenta,n-enta,3-wake.up,S/he woke up.
+163,kenta,k-enta,1+2P-wake.up,We woke up.
+164,jakinta,j-akinta,1P-get.tired,I got tired.
+165,aakinta,a-akinta,2P-get.tired,You got tired.
+166,nakinta,n-akinta,3-get.tired,S/he got tired.
+167,kakinta,k-akinta,1+2P-get.tired,We got tired.
+168,josita,j-osita,1P-have.rash,I had a rash.
+169,oosita,o-osita,2P-have.rash,You had a rash.
+170,nosita,n-osita,3-have.rash,S/he had a rash.
+171,kosita,k-osita,1+2P-have.rash,We had a rash.
+172,japəəna,j-apəəna,1P-finish,I finished.
+173,aapəəna,a-apəəna,2P-finish,You finished.
+174,napəəna,n-apəəna,3-finish,S/he finished.
+175,kapəəna,k-apəəna,1+2P-finish,We finished.
+176,janota,j-anota,1P-fall,I fell.
+177,aanota,a-anota,2P-fall,You fell.
+178,nanota,n-anota,3-fall,S/he fell.
+179,kanota,k-anota,1+2P-fall,We fell.
+180,jurakana,j-urakana,1P-stroll,I strolled.
+181,əurakana,ə-urakana,2P-stroll,You strolled.
+182,nurakana,n-urakana,3-stroll,S/he strolled.
+183,kurakana,k-urakana,1+2P-stroll,We strolled.
+184,jaamiita,j-aamiita,1P-blush,I blushed.
+185,aamiita,aamiita,blush,You blushed.
+186,naamiita,n-aamiita,3-blush,S/he blushed.
+187,kaamiita,k-aamiita,1+2P-blush,We blushed.
+188,jaeruta,j-aeruta,1P-make.noise,I made a noise.
+189,aeruta,aeruta,make.noise,You made a noise.
+190,naeruta,n-aeruta,3-make.noise,S/he made a noise.
+191,kaeruta,k-aeruta,1+2P-make.noise,We made a noise.
+192,joonapijuhta,j-oonapijuhta,1P-have.running.nose,I had a running nose.
+193,oonapijuhta,oonapijuhta,have.running.nose,You had a running nose.
+194,noonapijuhta,n-oonapijuhta,3-have.running.nose,S/he had a running nose.
+195,koonapijuhta,k-oonapijuhta,1+2P-have.running.nose,We had a running nose.
+196,jeerana,j-eerana,1P-laugh,I laughed.
+197,əeerana,ə-eerana,2P-laugh,You laughed.
+198,neerana,n-eerana,3-laugh,S/he laughed.
+199,keerana,k-eerana,1+2P-laugh,We laughed.
+200,wenepɨ,w-enepɨ,1A-bring,I brought it.
+201,menepɨ,m-enepɨ,2A-bring,You brought it.
+202,keenepɨ,ke-enepɨ,1+2A-bring,We brought it.
+203,nenepɨ,n-enepɨ,3-bring,S/he brought it.
+204,jenepɨ,j-enepɨ,1P-bring,S/he brought me.
+205,əenepɨ,ə-enepɨ,2P-bring,S/he brought you.
+206,kenepɨ,k-enepɨ,1+2P-bring,S/he brought us.
+207,wenepɨ eperu,w-enepɨ eperu,1A-bring fruit,I brought the fruit.
+208,menepɨ kana,m-enepɨ kana,2A-bring fish,You brought the fish.
+209,menepɨ wəri,m-enepɨ wəri,2A-bring woman,You brought the woman.
+210,pawana kenepɨ,pawana k-enepɨ,friend 1+2P-bring,The friend brought us.
+211,wɨtoto əenepɨ,wɨtoto ə-enepɨ,person 2P-bring,The person brought you.
+212,wɨtoto kenepɨ,wɨtoto k-enepɨ,person 1+2P-bring,The person brought us.
+213,pawana nenepɨ karaiwa,pawana n-enepɨ karaiwa,friend 3-bring Brazilian,The friend brought the Brazilian.
+214,pawana karaiwa enepɨ,pawana karaiwa enepɨ,friend Brazilian bring,The friend brought the Brazilian.
+215,wəri nenepɨ karaiwa,wəri n-enepɨ karaiwa,woman 3-bring Brazilian,The woman brought the Brazilian.
+216,wəri karaiwa enepɨ,wəri karaiwa enepɨ,woman Brazilian bring,The woman brought the Brazilian.
+217,weta,w-eta,1A-hear,I heard it.
+218,meta,m-eta,2A-hear,You heard it.
+219,keeta,ke-eta,1+2A-hear,We heard it.
+220,neta,n-eta,3-hear,S/he heard it.
+221,jeta,j-eta,1P-hear,S/he heard me.
+222,əeta,ə-eta,2P-hear,S/he heard you.
+223,keta,k-eta,1+2P-hear,S/he heard us.
+224,wituuka,wi-tuuka,1A-beat,I beat it.
+225,mituuka,mi-tuuka,2A-beat,You beat it.
+226,kiituuka,kii-tuuka,1+2A-beat,We beat it.
+227,nituuka,ni-tuuka,3-beat,S/he beat it.
+228,jituuka,ji-tuuka,1P-beat,S/he beat me.
+229,ətuuka,ə-tuuka,2P-beat,S/he beat you.
+230,kɨtuuka,kɨ-tuuka,1+2P-beat,S/he beat us.
+231,wituuka,wi-tuuka,1A-hit,I hit it.
+232,mituuka,mi-tuuka,2A-hit,You hit it.
+233,kiituuka,kii-tuuka,1+2A-hit,We hit it.
+234,nituuka,ni-tuuka,3-hit,S/he hit it.
+235,jituuka,ji-tuuka,1P-hit,S/he hit me.
+236,ətuuka,ə-tuuka,2P-hit,S/he hit you.
+237,kɨtuuka,kɨ-tuuka,1+2P-hit,S/he hit us.
+238,"entatuuwə ahtao, wenehtaepa",enta-tuuwə ahtao w-eneh-ta-e=pa,wake.up-POSTE when 1A-bring-FUT.IPFV-CERT=REP,"After s/he wakes up, I will bring him/her back."
+239,mənəimo,m-ənə-i=mo,2A-eat-HYP=IRR,You would eat it.
+240,ipunmo mənəi,i-pun=mo m-ənə-i,3-meat=IRR 2A-eat-HYP,You would eat its meat.
+241,pahkopa meta?,pahko=pa m-eta,my.father=REP 2A-hear,Did you hear my father again?
+242,pahko neta jipawana,pahko n-eta ji-pawana,my.father 3-hear 1-friend,My father heard my friend.
+243,"anponai kaikui, ituukahpə?","an=po=n-ai kaikui, i-tuuka-hpə",where=LOC=3-be jaguar 3-beat-NMLZ.PST,Where is the dog which was beaten?
+244,pakira apəi,pakira apə-i,peccary catch-HYP,He/she has caught the peccary.
+245,kɨtapotomapoti,kɨt-apoto-ma-po-ti,1+2A-helper-VBZ.BEN-CAUS-PL,We all made him help.
+246,ituukaimo,i-tuuka-i=mo,3-hit-HYP=IRR,S/he would hit it.
+247,nətapəəjanto,n-ət-apəə-ja-n=to,3-DETRZ-catch-PRS.IPFV-UNCERT=3PL,"They are grabbing each other, they are fighting / having sex."
+248,tarɨpɨ tɨwəe,tarɨpɨ tɨ-wə-e,monkey 3-shoot-SUP,in order to shoot a/the monkey
+249,arəkə,arə-kə,take-IMP,"take it, carry it!"
+250,sekonka,s-e-konka,1A-DETRZ-pierce,I have pierced myself.
+251,kaikui ipijokɨsewae,kaikui i-pijokɨ=se=w-a-e,jaguar 3-hit=DES=1A-be-CERT,I want to hit the jaguar.
+252,jotɨ ənəsewae,j-otɨ ənə=se=w-a-e,1-meat eat=DES=1A-be-CERT,I want to eat my meat food.
+253,jekɨ pɨsewae,j-ekɨ pɨ=se=w-a-e,1-pet bathe=DES=1A-be-CERT,I want to bathe my pet.
+254,tarɨpɨ wəkə!,tarɨpɨ wə-kə,monkey shoot-IMP,Shoot the monkey!
+255,tənəkə!,t-ənə-kə,3-eat-IMP,Eat it!
+256,əpanawaakon se wae,ə-panawaa-kon se w-a-e,2-friend-PL DES 1A-be-CERT,I want you all's friends.
+257,təpupowae,təpu=po=w-a-e,Tëpu=LOC=1A-be-CERT,I am at Tëpu.
+258,təpupo=kɨtae,təpu=po=kɨt-a-e,Tëpu=LOC=1+2A-be-CERT,We are at Tëpu.
+259,enpanemenai jipawana,enpa-ne=me=n-ai ji-pawana,teach-AGT.NMLZ=ATTRZ=3-be 1-friend,My friend is a teacher.
+260,monomenai məe,mono=me=n-ai məe,big.one=ATTRZ=3-be 3PRO,This one is big.
+261,pakoroponai,pakoro=po=n-ai,house=LOC=3-be,S/he is by the house.
+262,nai,n-ai,3-be,S/he is.
+263,wae,w-a-e,1A-be-CERT,I am.
+264,kɨtae,kɨt-a-e,1+2A-be-CERT,We are.
+265,pakorosewae,pakoro=se=w-a-e,house=DES=1A-be-CERT,I want a house.
+266,fevereiropo tarənoton eperu pəəjan,fevereiro=po tarəno-ton eperu pəə-ja-n,February=LOC Tiriyó-PL fruit gather-PRS.IPFV-UNCERT,"In February, the Tiriyó gather fruits."

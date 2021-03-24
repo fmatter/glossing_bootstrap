@@ -5,6 +5,7 @@ The data here are from [Meira (1999)](https://scholarship.rice.edu/handle/1911/1
 While the majority of it has been constructed, it is -- to the best of my knowledge -- grammatical Trió.
 
 In the morpheme data (`morphemes.csv`), prefixes and suffixes are identified by preceding and following hyphens, and roots do not have hyphens.
+Allomorphs are delimited with `; `.
 Your task is to parse the sentences in `sentences.csv`, and ideally produce an output as in `parsed_sentences.csv`.
 
 A special problem here is the presence of clitics.

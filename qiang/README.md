@@ -1,0 +1,8 @@
+# Task 2: Qiang
+
+[Northern Qiang](https://glottolog.org/resource/languoid/id/nort2722) is a Tibeto-Burman language spoken by about 58'000 people in Tibet and in Sichuan, China.
+
+Data is from https://github.com/cldf-datasets/lapollaqiang/, who lifted it from [LaPolla & Huang (2003)](https://doi.org/10.1515/9783110197273)
+
+In this task, you get much more data, but you only get limited information about morphemes: affixes are not specified as such.
+You can also just use `-` instead of `=`.

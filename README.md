@@ -67,6 +67,7 @@ You are given a list of morphemes from an underresourced language, as well as a 
 Your task is to divide the provided word forms into the known morphemes.
 The morphemes are provided as a list of form-meaning pairs, as in the table above.
 Your solution should be able to deal with morpheme lists and word forms from any language, so no language-specific morphemes or combinations thereof should be encoded.
+If a given wordform is ambiguous, your solution should list all alternative analyses, although you may decide on the more probable one.
 
 There are two subtasks, [1](https://github.com/fmatter/glossing_bootstrap/tree/master/trio) and [2](https://github.com/fmatter/glossing_bootstrap/tree/master/qiang); check there for infos.
 

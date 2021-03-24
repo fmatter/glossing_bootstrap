@@ -64,6 +64,7 @@ reid 256 -->
 
 ## The task
 You are given a list of morphemes from an underresourced language, as well as a list of sentences.
+The sentences are provided as space-delimited word forms.
 Your task is to parse the words in these sentences into morphemes, and create a corresponding glossing line.
 To do that, you use the information on morphemes, which is provided as a list of form-meaning pairs, as in the table above.
 Your solution should be able to deal with morpheme lists and word forms from any language, so no language-specific morphemes or combinations thereof should be encoded.

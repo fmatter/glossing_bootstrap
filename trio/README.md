@@ -4,9 +4,10 @@
 The data here are from [Meira (1999)](https://scholarship.rice.edu/handle/1911/19417).
 While the majority of it has been constructed, it is -- to the best of my knowledge -- grammatical Trió.
 
-In the morpheme data, prefixes and suffixes are identified by preceding and following hyphens, and roots do not have hyphens.
-The sentences are provided as space-delimited word forms.
+In the morpheme data (`morphemes.csv`), prefixes and suffixes are identified by preceding and following hyphens, and roots do not have hyphens.
+Your task is to parse the sentences in `sentences.csv`, and ideally produce an output as in `parsed_sentences.csv`.
 
+A special problem here is the presence of clitics.
 Roots, pre- and suffixes are combined to grammatical words, or g-words.
 What is delimited by spaces in a sentence -- intuitively a 'word' to most people -- is strictly speaking a phonological word (p-word).
 Multiple g-words can be combined into a single p-word, think for example of the English (p-)words *mustn't* or *I've*, which contain the g-words *must* and *not* and *I* and *have*, respectively.
@@ -23,3 +24,4 @@ This is illustrated by the following example from the Pama-Nyungan language [Ngi
 
 Here, there are three distinct word forms: *ŋajaka*, *t̪iː*, and *ntukal*, which can be further segmented as *ŋa-j-aka*, *t̪iː*, and *ntu-kal*, respectively.
 As you can see in (2), g-words within a larger p-word are delimited with `=`, just like morphemes inside a g-word are delimited with `-`.
+This kind of structure is also found in Trió, as you can see from the glossed sentences.

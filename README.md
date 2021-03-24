@@ -47,23 +47,6 @@ So in the Unua example above, the following morphemes can be identified:
 |-i|TR|
 |-n|3SG|
 
-Roots, pre- and suffixes are combined to grammatical words, or g-words.
-What is delimited by spaces in a sentence -- intuitively a 'word' to most people -- is strictly speaking a phonological word (p-word).
-Multiple g-words can be combined into a single p-word, think for example of the English (p-)words *mustn't* or *I've*, which contain the g-words *must* and *not* and *I* and *have*, respectively.
-Sometimes, these g-words in turn contain multiple morphemes, as in the following example from the Pama-Nyungan language [Ngiyambaa](https://glottolog.org/resource/languoid/id/wang1291) ([Donaldson 1980](http://hdl.handle.net/11858/00-001M-0000-0012-9923-3): 131):
-
-<!-- ŋayagadhi:ndugal -->
-
-```
-(2) ŋa-j-aka=t̪iː=ntu-kal     
-    see-CONJ-IRR=1OBL=2NOM-PL 
-    You all will see me.'
-```
-
-
-Here, there are three distinct word forms: *ŋajaka*, *t̪iː*, and *ntukal*, which can be further segmented as *ŋa-j-aka*, *t̪iː*, and *ntu-kal*, respectively.
-As you can see in (2), g-words within a larger p-word are delimited with `=`, just like morphemes inside a g-word are delimited with `-`.
-
 <!-- manhaŋ-gu=naŋ-gal ŋima-nhi
 white.paint-INS=3ABS-PL paint-INTR.PST
 'They were painted with white paint.'
@@ -83,9 +66,6 @@ reid 256 -->
 You are given a list of morphemes from an underresourced language, as well as a list of sentences (or single words).
 Your task is to divide the provided word forms into the known morphemes.
 The morphemes are provided as a list of form-meaning pairs, as in the table above.
-That is, prefixes and suffixes are identified by preceding and following hyphens, and roots do not have hyphens.
-The sentences are provided as space-delimited word forms, but boundaries between g-words of the same p-word are not indicated by `=`.
-
 Your solution should be able to deal with morpheme lists and word forms from any language, so no language-specific morphemes or combinations thereof should be encoded.
 
-TODO: datasets
+There are two subtasks, [1](https://github.com/fmatter/glossing_bootstrap/tree/master/trio) and [2](https://github.com/fmatter/glossing_bootstrap/tree/master/qiang)

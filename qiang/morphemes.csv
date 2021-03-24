@@ -1,356 +1,428 @@
-"Form","Meaning"
-"kui; kəi; kei; ku","NAR"
-"ŋuəȵi","TOP"
-"gul","companion"
-"ʂkup","orangutan"
-"χa","needle"
-"χsutsqhɑ","stomach"
-"nə","sleep"
-"pe","become"
-"kɑntɕhi","think/want"
-"χtʂɑp","black"
-"χsu","jump/dance"
-"χan","kind"
-"ʐgue","answer"
-"ʐguə","grain"
-"ʐguə","nine"
-"ʐmə","humankind"
-"ʐmə","meeting"
-"ɬi","build"
-"ɬɑ","slip"
-"ɸi","plant"
-"ɸu","tree"
-"ʁu","mountain"
-"ʁu","throw"
-"ʁu","willing"
-"ɕtɕiɕtɕɑq","magpie"
-"thəl","stone pestle"
-"tʂequɑ","remember"
-"tʂhu","reach out"
-"tʂhue","step on"
-"tʂhə","ground floor"
-"xsə","god"
-"xte","chop"
-"xte","cut down"
-"xtɕu","burn"
-"xtʂəpɑ:","get dark:PRS"
-"tu; tə; te; ti","DIR"
-"ɦo; ɦɑ; ɦe; ɦei; ɦa; ɦe","DIR"
-"nu; ȵi","DIR"
-"su; sə","DIR"
-"zu; zə","DIR"
-"do; dɑ; de; du; da","DIR"
-"u; i; e; ə; o; ɑ","DIR"
-"ho; hɑ; he","DIR"
-"lə; l","come"
-"pə","arrive"
-"tʂepe","encounter"
-"ɑ","1SG"
-"n","2SG"
-"i","2PL"
-"tɕi","3PL"
-"ʴ","1PL"
-"tshe","wrong"
-"tshuete","peck"
-"tshuə","sing"
-"stu","alone"
-"sɑ","blood"
-"kɑpətʂ","orphan"
-"noʁu","crow"
-"qusɑp","scissors"
-"ʁopu","mountain"
-"tshəmɑ","thorn"
-"gue:ʴ","road"
-"gəs","night"
-"pəmaha","tonight"
-"lu","China fir"
-"tɕetɕi","everywhere"
-"ʂuətʂhuɑ","water jar"
-"lu","come"
-"qu","be afraid"
-"qɑ","1SG"
-"ʔũ","2SG"
-"maha","evening"
-"tɕymi","child"
-"ȵizzi","3DU"
-"tʂhəqtʂhɑqtʂhəqtʂhɑq","(onomatopoeia)"
-"miɑuʁdʐue","eye"
-"mutsitʂu","Mutsitʂu"
-"tugantʂu","Tugantʂu"
-"qhəʴqhəʴ","open"
-"thəpɑktɑ","as a result"
-"themle","3PL"
-"jɑnkhui","stone mortar"
-"mujuqů","sun"
-"tɕhəqhɑ","burn"
-"ȵiantɕi; ȵiɑntɕi","after"
-"dzuɑʁl","stone mill"
-"phuxʂu","wild animals"
-"tshuɑq","peck"
-"tuetue","dripping"
-"thəzzi","3DU"
-"xtʂəp; xtʂə","get dark"
-"steke","behind"
-"χuəlɑ","wash"
-"duɑʁl","scythe"
-"dzeke","(onomatopoeia)"
-"khueq","angry"
-"mufů","smoke"
-"zuɑmə","cypress"
-"tɕile","2PL"
-"meʴʐ","seek"
-"quɑt","bushel"
-"tɕhi","want"
-"ɕtɕi","push"
-"tɕəu","home"
-"ʔizzi","2DU"
-"tɕite","pound"
-"zəpəq","earth"
-"ʐɑχuɑ","inside"
-"pienɑ","beside"
-"quaha","face"
-"peʴʐə","raise.child"
-"poquʂ","livestock"
-"qhuɑt","as it happens"
-"phuxʂu","wild creatures"
-"tɕiʁuɑ","house"
-"jɑpə","hand"
-"keʴl","ask"
-"mutu","heaven"
-"dʑiq","floor"
-"buzd","plank stairs"
-"doqu","frighten"
-"japə","hand"
-"qala","separate/divide/leave"
-"qheʴ","open"
-"ququ","afraid"
-"qəti","beat to death"
-"tɑtə","father"
-"tɕhe","want"
-"dzə","eat"
-"dʑy","door"
-"ɣlu","younger sister"
-"gɑnphai","arrange"
-"mupithɑ","Mupitha"
-"kɑntɕi:","think/want"
-"oqpi","family"
-"nəʂ","bed"
-"phi","plant"
-"stu","thousand"
-"sɑq","blood"
-"ɣlu","roll"
-"ʁza","time"
-"χɑn","kind"
-"tse","see"
-"tsu","here"
-"tuɑ","cut"
-"tɑu","time"
-"tʂə","stab"
-"xsə","three"
-"zəm","song"
-"zəp","earth"
-"qes","form"
-"tse","look"
-"tsu","hold"
-"tsə","water"
-"wɑʁ","drive ahead"
-"phi","flow"
-"phu","forest"
-"qəpɑtʂɑ:","head:LOC"
-"ʂəʂe:ʴwu","all of them"
-"qəta:","beat to death:PRS"
-"dzɑ:","eat:PRS"
-"qəta:","beat to death:PRS"
-"dzɑ:","eat:PRS"
-"lɑ:","come:PRS"
-"pɑ:","become:PRS"
-"kuə","foot"
-"ȵile","3PL.REFL"
-"ʔile","2PL"
-"zei","cry"
-"tsɑ","this:one"
-"tsɑ","this:one"
-"lɑ","come"
-"mə","fire"
-"mə","older brother"
-"zu","seed"
-"je","live/stay"
-"ew","mother"
-"ʂue","set fire"
-"dzɑ","follow"
-"dʐi","discuss"
-"tʂßhue","step on"
-"χsəʴwu","few:all"
-"qə; q","head"
-"mɑ","mother"
-"zɑ","earth"
-"zə","land"
-"ɕi","release"
-"ɑpə","father"
-"qeʴlotʂu","in the past"
-"ȵiɑntɕi","together"
-"ȵutɕuku","each"
-"ȵiɑufu","as soon as"
-"tʂetup","bump into"
-"jɑntɕi","after"
-"ʂpɑʂpɑ","like/as"
-"ɕtɕi:","heart"
-"peʴʐə","raise child"
-"ɕtɕɑq","heart"
-"tsəi","this:manner"
-"ȵike","after"
-"qe:ʴ","before"
-"ȵiɣi","what"
-"pitɕ","now"
-"tse:","this:CL"
-"tsou","this:one:CL"
-"tou","DEF:one:CL"
-"χuɑ","because"
-"tɕɑ","where"
-"xsə","new"
-"tou","DEF:one:CL"
-"lɑw","DEF:one:pile"
-"kou","INDEF:one:CL"
-"lou","DEF:one:CL"
-"kou","DEF:one:CL"
-"lɑ","DEF:one"
-"lo","DEF:one"
-"le:","DEF:CL"
-"ke:","INDEF:CL"
-"te:","DEF:CL"
-"la:","DEF:CL"
-"ta:","DEF:CL"
-"le","DEF"
-"kən","very"
-"pəs","today"
-"qeʴ","before"
-"we̊","exist"
-"zů","sit"
-"ʁza","when"
-"ʐge","open"
-"χsɑ","few"
-"jə","say"
-"lə","also"
-"qɑ; kə; ʁə; qə; ʁ; ʁɑ; k","go"
-"ʐi","exist"
-"kə","thus"
-"hɑ","PL"
-"se","make friends"
-"χaiʂə","†(still is)"
-"tɕiu","†(then)"
-"bəl","do"
-"dʐə","able"
-"ike","thus"
-"khe","hundred"
-"ʁů","throw.away"
-"nɑ","good"
-"χui","time"
-"mi:","eyes"
-"thɑ","there"
-"ků","inside"
-"lů","come"
-"nai","other"
-"pů","do"
-"səɸ","tree"
-"the","that"
-"thɑ","that:one"
-"ʐə","exist"
-"we","exist"
-"ʐa","exist:1SG"
-"le","exist"
-"ʂə","exist"
-"w","exist"
-"thizzi","3DU"
-"tɕile","1PL"
-"ɦɑlɑ","INT"
-"kəpə","HABIT"
-"ȵiɑu","PART"
-"ɦala","INT"
-"tɕu","PART"
-"tɕe; tɕo; tɕu; tɕɑ; tɕə","NEG.IMP"
-"pe","correct"
-"pi","hide"
-"mɑ; me; mi; mə; mo; mu","NEG"
-"wi","high"
-"ɸu","run away"
-"ʂp","explode"
-"bi","carry on back"
-"fu","flee"
-"lə","look"
-"mo","grope for"
-"pe","correct"
-"pi","hide"
-"pɑ","do"
-"wa","very"
-"ʂə","put"
-"ʁů","throw away"
-"ep","father"
-"jə","two"
-"ɑ; e; o; ə","one"
-"m","NMLZ"
-"s","NMLZ"
-"ʐə; ʐ","CAUS"
-"ɦa","EXCL"
-"tɑ; lɑ; ʁɑ","LOC"
-"ȵi","WH"
-"ʂ","grow"
-"ʂ","time"
-"p","year"
-"mi","people"
-"ou","one:CL"
-"pə","do"
-"gi","short"
-"ji; jə; ja","say"
-"wɑ","EMPH"
-"ha","EXCL"
-"hi","EXCL"
-"a:","EXCL"
-"le","give"
-"se","sow"
-"sə","make sound"
-"l","look"
-"l","give"
-"sə; s","day"
-"ʐə","matter"
-"ŋuə; ŋ̥u̥ə; ŋ̥u̥ə̥","COP"
-"ȵi","LNK"
-"ʂə; ʂ","LNK"
-"tu","LNK"
-"ŋuɑ","COP:1SG"
-"ȵi","ADVZ"
-"xʂe","CL"
-"tɕi","CL"
-"ʐgu","CL"
-"zi","CL"
-"qu","CL"
-"lɑ","CL"
-"tʂ","CL"
-"stun; stu","PART"
-"wei","exist:HSY"
-"ku","base"
-"tɕo; tɕe; tɕi; tɕɑ","CONT"
-"tu","RESULT"
-"lɑ","INDTV:1SG"
-"ja","CSM:1SG"
-"tɕi","ADVZ"
-"wu","ABL"
-"tɕi","EXC"
-"i","HSY"
-"jə; ji","EXC"
-"pɑ; wɑ","DTV"
-"tɑ","DAT"
-"ɑ:","PRS"
-"wu","INST"
-"ŋuɑ; wɑ","Q"
-"ək; k","INF"
-"gi","low"
-"ʂu","DTV:2SG"
-"x","cut"
-"tɕə; tɕ","GEN"
-"ɦɑ","EMPH"
-"ji; jy","CSM"
-"ɑ:","1SG:PRS"
-"jə; ja","REP"
-"l","see"
-"ȵɑ","and"
-"ta","if"
+Form,Meaning
+kui; kəi; kei; ku,NAR
+ŋuəȵi,TOP
+gul,companion
+ʂkup,orangutan
+χa,needle
+χsutsqhɑ,stomach
+nə,sleep
+pe,become
+kɑntɕhi,think/want
+χtʂɑp,black
+χsu,jump/dance
+χan,kind
+ʐgue,answer
+ʐguə,grain
+ʐguə,nine
+ʐmə,humankind
+ʐmə,meeting
+ɬi,build
+ɬɑ,slip
+ɸi,plant
+ɸu,tree
+ʁu,mountain
+ʁu,throw
+ʁu,willing
+ɕtɕiɕtɕɑq,magpie
+thəl,stone pestle
+tʂequɑ,remember
+tʂhu,reach out
+tʂhue,step on
+tʂhə,ground floor
+xsə,god
+xte,chop
+xte,cut down
+xtɕu,burn
+xtʂəpɑ:,get dark:PRS
+tu; tə; te; ti,DIR
+ɦo; ɦɑ; ɦe; ɦei; ɦa; ɦe,DIR
+nu; ȵi,DIR
+su; sə,DIR
+zu; zə,DIR
+do; dɑ; de; du; da,DIR
+u; i; e; ə; o; ɑ,DIR
+ho; hɑ; he,DIR
+lə; l,come
+pə,arrive
+tʂepe,encounter
+ɑ,1SG
+n,2SG
+i,2PL
+tɕi,3PL
+ʴ,1PL
+tshe,wrong
+tshuete,peck
+tshuə,sing
+stu,alone
+sɑ,blood
+kɑpətʂ,orphan
+noʁu,crow
+qusɑp,scissors
+ʁopu,mountain
+tshəmɑ,thorn
+gue:ʴ,road
+gəs,night
+pəmaha,tonight
+lu,China fir
+tɕetɕi,everywhere
+ʂuətʂhuɑ,water jar
+lu,come
+qu,be afraid
+qɑ,1SG
+ʔũ,2SG
+maha,evening
+tɕymi,child
+ȵizzi,3DU
+tʂhəqtʂhɑqtʂhəqtʂhɑq,(onomatopoeia)
+miɑuʁdʐue,eye
+mutsitʂu,Mutsitʂu
+tugantʂu,Tugantʂu
+qhəʴqhəʴ,open
+thəpɑktɑ,as a result
+themle,3PL
+jɑnkhui,stone mortar
+mujuqů,sun
+tɕhəqhɑ,burn
+ȵiantɕi; ȵiɑntɕi,after
+dzuɑʁl,stone mill
+phuxʂu,wild animals
+tshuɑq,peck
+tuetue,dripping
+thəzzi,3DU
+xtʂəp; xtʂə,get dark
+steke,behind
+χuəlɑ,wash
+duɑʁl,scythe
+dzeke,(onomatopoeia)
+khueq,angry
+mufů,smoke
+zuɑmə,cypress
+tɕile,2PL
+meʴʐ,seek
+quɑt,bushel
+tɕhi,want
+ɕtɕi,push
+tɕəu,home
+ʔizzi,2DU
+tɕite,pound
+zəpəq,earth
+ʐɑχuɑ,inside
+pienɑ,beside
+quaha,face
+peʴʐə,raise.child
+poquʂ,livestock
+qhuɑt,as it happens
+phuxʂu,wild creatures
+tɕiʁuɑ,house
+jɑpə,hand
+keʴl,ask
+mutu,heaven
+dʑiq,floor
+buzd,plank stairs
+doqu,frighten
+japə,hand
+qala,separate/divide/leave
+qheʴ,open
+ququ,afraid
+qəti,beat to death
+tɑtə,father
+tɕhe,want
+dzə,eat
+dʑy,door
+ɣlu,younger sister
+gɑnphai,arrange
+mupithɑ,Mupitha
+kɑntɕi:,think/want
+oqpi,family
+nəʂ,bed
+phi,plant
+stu,thousand
+sɑq,blood
+ɣlu,roll
+ʁza,time
+χɑn,kind
+tse,see
+tsu,here
+tuɑ,cut
+tɑu,time
+tʂə,stab
+xsə,three
+zəm,song
+zəp,earth
+qes,form
+tse,look
+tsu,hold
+tsə,water
+wɑʁ,drive ahead
+phi,flow
+phu,forest
+qəpɑtʂɑ:,head:LOC
+ʂəʂe:ʴwu,all of them
+qəta:,beat to death:PRS
+dzɑ:,eat:PRS
+qəta:,beat to death:PRS
+dzɑ:,eat:PRS
+lɑ:,come:PRS
+pɑ:,become:PRS
+kuə,foot
+ȵile,3PL.REFL
+ʔile,2PL
+zei,cry
+tsɑ,this:one
+tsɑ,this:one
+lɑ,come
+mə,fire
+mə,older brother
+zu,seed
+je,live/stay
+ew,mother
+ʂue,set fire
+dzɑ,follow
+dʐi,discuss
+tʂßhue,step on
+χsəʴwu,few:all
+qə; q,head
+mɑ,mother
+zɑ,earth
+zə,land
+ɕi,release
+ɑpə,father
+qeʴlotʂu,in the past
+ȵiɑntɕi,together
+ȵutɕuku,each
+ȵiɑufu,as soon as
+tʂetup,bump into
+jɑntɕi,after
+ʂpɑʂpɑ,like/as
+ɕtɕi:,heart
+peʴʐə,raise child
+ɕtɕɑq,heart
+tsəi,this:manner
+ȵike,after
+qe:ʴ,before
+ȵiɣi,what
+pitɕ,now
+tse:,this:CL
+tsou,this:one:CL
+tou,DEF:one:CL
+χuɑ,because
+tɕɑ,where
+xsə,new
+tou,DEF:one:CL
+lɑw,DEF:one:pile
+kou,INDEF:one:CL
+lou,DEF:one:CL
+kou,DEF:one:CL
+lɑ,DEF:one
+lo,DEF:one
+le:,DEF:CL
+ke:,INDEF:CL
+te:,DEF:CL
+la:,DEF:CL
+ta:,DEF:CL
+le,DEF
+kən,very
+pəs,today
+qeʴ,before
+we̊,exist
+zů,sit
+ʁza,when
+ʐge,open
+χsɑ,few
+jə,say
+lə,also
+qɑ; kə; ʁə; qə; ʁ; ʁɑ; k,go
+ʐi,exist
+kə,thus
+hɑ,PL
+se,make friends
+χaiʂə,†(still is)
+tɕiu,†(then)
+bəl,do
+dʐə,able
+ike,thus
+khe,hundred
+ʁů,throw.away
+nɑ,good
+χui,time
+mi:,eyes
+thɑ,there
+ků,inside
+lů,come
+nai,other
+pů,do
+səɸ,tree
+the,that
+thɑ,that:one
+ʐə,exist
+we,exist
+ʐa,exist:1SG
+le,exist
+ʂə,exist
+w,exist
+thizzi,3DU
+tɕile,1PL
+ɦɑlɑ; ɦala; ɦɑ:; a:,INT
+kəpə,HABIT
+ȵiɑu,PART
+tɕu,PART
+tɕe; tɕo; tɕu; tɕɑ; tɕə,NEG.IMP
+pe,correct
+pi,hide
+mɑ; me; mi; mə; mo; mu,NEG
+wi,high
+ɸu,run away
+ʂp,explode
+bi,carry on back
+fu,flee
+lə,look
+mo,grope for
+pe,correct
+pi,hide
+pɑ,do
+wa,very
+ʂə,put
+ʁů,throw away
+ep,father
+jə,two
+ɑ; e; o; ə; a,one
+m,NMLZ
+əs; s,NMLZ
+ʐə; ʐ,CAUS
+ɦa,EXCL
+tɑ; lɑ; ʁɑ,LOC
+ȵi,WH
+ʂ,grow
+ʂ,time
+p,year
+mi,people
+ou,one:CL
+pə,do
+gi,short
+ji; jə; ja,say
+wɑ,EMPH
+ha,EXCL
+hi,EXCL
+a:,EXCL
+le,give
+se,sow
+sə,make sound
+l,look
+l,give
+sə; s,day
+ʐə,matter
+ŋuə; ŋ̥u̥ə; ŋ̥u̥ə̥,COP
+ȵi,LNK
+ʂə; ʂ,LNK
+tu,LNK
+ŋuɑ,COP:1SG
+ȵi,ADVZ
+xʂe,CL
+tɕi,CL
+ʐgu,CL
+zi,CL
+qu,CL
+lɑ,CL
+tʂ,CL
+stun; stu,PART
+wei,exist:HSY
+ku,base
+tɕo; tɕe; tɕi; tɕɑ,CONT
+tu,RESULT
+lɑ,INDTV:1SG
+ja,CSM:1SG
+tɕi,ADVZ
+wu,ABL
+tɕi,EXC
+i,HSY
+jə; ji,EXC
+pɑ; wɑ; bɑ,DTV
+tɑ,DAT
+ɑ:,PRS
+wu,INST
+ŋuɑ; wɑ,Q
+ək; k,INF
+gi,low
+ʂu,DTV:2SG
+x,cut
+tɕə; tɕ,GEN
+ɦɑ,EMPH
+ji; jy,CSM
+ɑ:,1SG:PRS
+jə; ja,REP
+l,see
+ȵɑ,and
+ta,if
+ɦə̃ʴɦə̃ʴ,oink oink
+phusuluq,clothing
+qhaʴʁue,stone pile
+tɕiqə:ʴ,before
+tʂhe,suck
+tɕiquɑ,inside
+lɑntɕi,flower
+tsəusə,marry
+χanχa:,crevice
+entɕi,uncle’s wife
+qutaq,cluck
+ɦɑŋů,woof
+qutaq,(sound of chicken)
+g̥u̥ə,basketful
+lɑmpə,flower
+qəstɑ,not as good as
+tsəqɑ,grab
+zaʁue,helpmate
+ʁuɑχɑ,courtyard
+ʂkupu,a kind of thing
+ʂua:m,very long
+khuə,dog
+qhɑl,momo(steamed bread)
+dʑel,feast
+the:,3sg
+mɑ:,mama
+ʁoi,call
+pie,pig
+tsi,daugher
+tɕy,chicken
+ȵi:,what
+ɣʐə,able
+hɑn,kind
+ikə,thus
+kən,very(many)
+lie,bring
+mi:,eye
+sei,walk
+thu,there
+tɕi,most
+tɕu,see
+tʂə,close
+sətsim,wife
+qodu,old woman
+qɑpə,old man
+thou,that:one:CL
+ɦɑlɑ,there
+ʁoʁu,ram’s horn
+ʁza:,time
+χtʂɑ,small
+bəs,snake
+upu,uncle
+χsɑ,understand
+tsi,girl
+lie,carry
+ge,hold
+lu,give as gift
+lə,able
+mi,person
+stũ,PART
+the:,3SG
+ɕa:,INDTV
+wu,LNK
+ɕi,wine
+ʁɑ,if
+ȵi:,3SG:REFL
+sɑ,sound
+ɕi,send
+ɕa,send:1SG
+ʐɑ,CAUS:1SG
+g,break
+ʐə,follow
+e:,one:CL

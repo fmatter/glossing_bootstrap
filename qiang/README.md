@@ -6,4 +6,4 @@ Data is from https://github.com/cldf-datasets/lapollaqiang/, who lifted it from 
 
 In this task, you only get limited information about morphemes: affixes are not specified as such.
 However, you get a large amount of parsed and glossed sentences.
-Note that `-` is used instead of `=`.
+Note that `-` is used instead of `=` throughout.

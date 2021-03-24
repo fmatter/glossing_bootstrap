@@ -69,3 +69,7 @@ The morphemes are provided as a list of form-meaning pairs, as in the table abov
 Your solution should be able to deal with morpheme lists and word forms from any language, so no language-specific morphemes or combinations thereof should be encoded.
 
 There are two subtasks, [1](https://github.com/fmatter/glossing_bootstrap/tree/master/trio) and [2](https://github.com/fmatter/glossing_bootstrap/tree/master/qiang); check there for infos.
+
+### Glossing rules
+See [Leipzig Glossing Rules](https://www.eva.mpg.de/lingua/resources/glossing-rules.php) for more information about interlinear glossing.
+An important point is that multi-word glosses need to be combined with `.`, because otherwise the space is interpreted as a word boundary.
